@@ -56,6 +56,19 @@ nav{
     width: 150px;
 }
 
+.number1{
+    position: relative;
+    background-color:whitesmoke;
+    margin-top: -50px;
+    margin-left: 44%;
+    color: #222;
+    padding: 10px 50px;
+    font-family: inherit;
+    font-size: 35px;
+    height: 100px;
+    width: 150px;
+}
+
 .che{
     margin-left: 150px;
     margin-top: 50px;
